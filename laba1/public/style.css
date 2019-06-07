@@ -1,0 +1,31 @@
+.header{
+    width: 60%;
+    height: 90px;
+    background-color: midnightblue;
+    margin: auto;
+    border: 4px solid black;
+}
+.content{
+    margin-left: 550px;
+    margin-top: 20px;
+    width: 7%;
+    height: 300px;
+    background-color: cornflowerblue;
+    border: 4px solid black;
+}
+.content1{
+    margin-left: 850px;
+    margin-top: -308px;
+    width: 7%;
+    height: 300px;
+    background-color: cornflowerblue;
+    border: 4px solid black;
+}
+.footer {
+    margin-top: 20px;
+    margin-left: 550px;
+    width: 410px;
+    height: 200px;
+    background-color: navy;
+    border: 4px solid black;
+}
